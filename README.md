@@ -1,6 +1,9 @@
 # React-Firebase-Test
 
-A
+A test project for development of solution of the **'Firebase Firestore auth token infinite loop after signing in'** issue presented on **StackOverflow**:
+* https://stackoverflow.com/questions/62504083/firebase-firestore-auth-token-infinite-loop-after-signing-in?noredirect=1#comment110885739_62504083
+
+# Information
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
