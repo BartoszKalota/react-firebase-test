@@ -16,6 +16,8 @@ class Firebase {
   constructor() {
     app.initializeApp(config);
     this.auth = app.auth();
+  }
+  componentDidMount() {
     this.db = app.firestore();
   }
   // Auth API
